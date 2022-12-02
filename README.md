@@ -1,8 +1,12 @@
-# Advent of Code Clojure Starter
+# Advent of Code Clojure 2022
 
-A batteries included starter pack for participating in [Advent of Code](https://www.adventofcode.com) using Clojure!
+## Progress
 
-(This projects uses [lein](https://github.com/technomancy/leiningen)).
+- [x] Day 1: Calorie Counting
+- [x] Day 2: Rock Paper Scissors
+- [ ] Day 3: 
+- [ ] Day 4: 
+- [ ] Day 5: 
 
 ## Usage
 
