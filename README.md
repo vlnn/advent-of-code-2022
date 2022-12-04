@@ -5,7 +5,7 @@
 - [x] Day 1: Calorie Counting
 - [x] Day 2: Rock Paper Scissors
 - [x] Day 3: Rucksack Reorganization
-- [ ] Day 4: 
+- [x] Day 4: Camp Cleanup (not really happy with me overusing sets here)
 - [ ] Day 5: 
 
 ## Usage
